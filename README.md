@@ -1,5 +1,5 @@
 Hi, I’m @afriedenberg
-I’m interested in creativer coding and architecture.
+I’m interested in creative coding and architecture.
 
 <!---
 afriedenberg/afriedenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
